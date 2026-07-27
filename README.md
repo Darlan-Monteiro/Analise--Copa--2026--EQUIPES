@@ -9,7 +9,6 @@ O objetivo principal desta ferramenta é transformar dados brutos de *scouting* 
 ## 🔗 Acessos Rápidos
 
 *   **📊 [Acessar o Dashboard Interativo Online](https://app.powerbi.com/view?r=eyJrIjoiYTZiYmJiZDEtMGVkMy00MzU1LWE4YjItODhkYjIxMWNhNTdjIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
-*   **📄 [Ler a Documentação Técnica Detalhada (PDF)](Documentacao_Tecnica_Copa_2026)**
 
 ---
 
